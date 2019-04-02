@@ -1,0 +1,58 @@
+[
+    {
+    "model": "test_auth.teampermission",
+    "pk": 1,
+    "fields": 
+        {
+            "name": "crud_team"
+        }
+    },
+    {
+        "model": "test_auth.teampermission",
+        "pk": 2,
+        "fields": 
+            {
+                "name": "grant_permission"
+            }
+    },
+    {
+        "model": "test_auth.teampermission",
+        "pk": 3,
+        "fields": 
+            {
+                "name": "crud_case"
+            }
+    },
+    {
+        "model": "test_auth.teampermission",
+        "pk": 4,
+        "fields": 
+            {
+                "name": "define_role_in_group"
+            }
+    },
+    {
+        "model": "test_auth.teampermission",
+        "pk": 5,
+        "fields": 
+            {
+                "name": "crud_user"
+            }
+    },
+    {
+        "model": "test_auth.teampermission",
+        "pk": 6,
+        "fields": 
+            {
+                "name": "grant_permission"
+            }
+    },
+    {
+        "model": "test_auth.teampermission",
+        "pk": 7,
+        "fields": 
+            {
+                "name": "create_role"
+            }
+    }
+]
